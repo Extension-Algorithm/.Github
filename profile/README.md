@@ -1,9 +1,9 @@
 알고리즘 학습을 위해서 모인 어벤져스입니다.
 
 ## 인원
-| 솜 | LJ | Baem | 미니 | Gundy |
-| :----: | :----: | :----: | :----: | :----: |
-| <image src="https://avatars.githubusercontent.com/u/94514250?v=4" width="150px"/> | <image src="https://avatars.githubusercontent.com/u/97071996?v=4" width="150px"/> | <image src="https://avatars.githubusercontent.com/u/77507952?v=4" width="150px"/> | <image src="https://avatars.githubusercontent.com/u/52390923?v=4" width="150px"/> | <image src="https://avatars.githubusercontent.com/u/106914201?v=4" width="150px"/> |
+| LJ | Baem | 미니 | Gundy |
+| :----: | :----: | :----: | :----: |
+| <image src="https://avatars.githubusercontent.com/u/97071996?v=4" width="150px"/> | <image src="https://avatars.githubusercontent.com/u/77507952?v=4" width="150px"/> | <image src="https://avatars.githubusercontent.com/u/52390923?v=4" width="150px"/> | <image src="https://avatars.githubusercontent.com/u/106914201?v=4" width="150px"/> |
 
 ## 규칙
 - 시간 : 월, 수, 금 (오후 2시)
